@@ -1,4 +1,4 @@
-# Screensaver for desktop (Debian xfce) that checks application (in tjis case is for Home Assistant) while shows any animation
+# Screensaver for desktop while checks application via HTTP GET
 
 Is used by me to show an animation `*.gif` in a fullscreen (hiding all OS interface) to not to let users interract with desktop (without any safety or blocking keyboard or mouse) while it waits for Home Assitant ready on a dedicated address
 
