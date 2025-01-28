@@ -16,7 +16,7 @@ This small program just checks availability of application using HTTP GET method
 
 ## How-to
 
-Open `*.go` file. Find and change `openBrowser("http://192.168.11.12:8123")` with IP or FQDN and port you like, this program will to check
+Open `*.go` file. Find and change `openBrowser("http://192.168.11.12:8123")` with IP or FQDN and port you like, let this program to check
 
 Put any animation saved as `animation.gif` file near to `*.go` file
 
