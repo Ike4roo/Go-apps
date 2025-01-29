@@ -3,7 +3,7 @@
 Collects info about CPU, RAM, LAN, WLAN, USB devices, GPU attached and stores in `*.txt` file and shows on a screen using dialog
 
 ## Requirements
-- Golang installed
+- Golang installed (`apt install golang`)
 - Dialog installed (easy as `apt install dialog`)
 - Some skills and Internet
 
