@@ -16,7 +16,8 @@ Import 3d-party libraies:
 ```bash
 go mod init hw_info
 go get github.com/shirou/gopsutil
-go get github.com/guptarohit/asciigraph
+go get github.com/shirou/gopsutil/mem
+go get github.com/shirou/gopsutil/net
 ```
 
 Build:
